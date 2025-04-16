@@ -7,8 +7,6 @@ This repository contains the code used in the preprint paper below:
 
 > **Hardware Co-Designed Optimal Control for Programmable Atomic Quantum Processors via Reinforcement Learning**  
 > *[Qian Ding, Dirk Englund]*  
-> *[arXiv, 2025 (link to be added !)]*  
-
 
 ##### Project Description
 This project focuses on implementing hardware co-designed quantum optimal control (QOC) using Reinforcement Learning (RL) techniques on neutral atom platforms using programmable Photonic Integrated Circuits (PICs). The goal is to demonstrate robust, high-fidelity gate operations considering practical hardware with control imperfections like inter-channel crosstalk and beam leakage.
