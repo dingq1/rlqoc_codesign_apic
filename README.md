@@ -6,7 +6,7 @@
 This repository contains the code used in the preprint paper below:
 
 > **Hardware Co-Designed Optimal Control for Programmable Atomic Quantum Processors via Reinforcement Learning**
-> *[arXiv:2504.11737](https://arxiv.org/abs/2504.11737)*
+> *[arXiv:2504.11737]*(https://arxiv.org/abs/2504.11737)
 > *[Qian Ding, Dirk Englund]*  
 
 ##### Project Description
